@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main(){
+    int variable=12;
+    int otravariable;
+    otravariable=5;
+    printf("Cantidad de manzanas = %i",variable);
+    
+}
